@@ -3,4 +3,4 @@ pluto-community is making Pluto Notebooks and Julia available to a wide communit
 Our goal is tips and tricks to make learners
 and casual users feel a home in a Pluto Notebook.
 Julia is Fantastic, Pluto is Super and we want
-to make them even Better!
+to make the experience even Better!
