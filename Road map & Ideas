@@ -1,0 +1,34 @@
+We wish to modify Pluto notebooks so that
+open with pasted code rather than a file.
+This is aimed to ease shared computers,
+online computing, and limited devices
+like chrmobooks.  Code would be selected
+from e-mail, web pages, or shared files.
+A notebook would be restarted with this code.
+The work would be saved with copy and paste
+into an e-mail.  We are using this model:
+
+       "Pluto Community Use Model"
+
+ select&copy   select&copy   select&copy
+  Web-Page      e-mail        local file       
+   nb code       nb code       nb code  
+          \_________V__________/___<____<____<|
+                    V                         |
+    open           open                       |
+    Pluto          Pluto > > > >              |
+  (new file)     (paste)        \             |
+     V            V              V            |
+     do           do           use as         |
+    coding       coding      spread sheet     |
+        \      /                   V          |
+         \    /                    V          |
+          \  /                 use results    |
+           \/                      X          |
+          save                    exit        |  
+           /\                                 |
+          /  \                                |   
+     e-mail  file                             |
+    self or  local or                         | 
+    group     GitHub                          |
+       V________V__________________>____>____>|             
