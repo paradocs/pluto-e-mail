@@ -1,12 +1,14 @@
-We wish to modify Pluto notebooks so that
-open with pasted code rather than a file.
-This is aimed to ease shared computers,
-online computing, and limited devices
-like chrmobooks.  Code would be selected
-from e-mail, web pages, or shared files.
+We wish to implement Pluto notebooks so that
+they open with pasted code rather than a file.
+This is aimed to ease use on shared computers,
+for online computing, and limited devices
+like chrmebooks.  Code would be selected
+from e-mails, web pages, or opened files.
 A notebook would be restarted with this code.
 The work would be saved with copy and paste
-into an e-mail.  We are using this model:
+into an e-mail.  The code may be considered
+"stateless" as it will not be in a .jl file.
+We are using this model:
 
        "Pluto Community Use Model"
 
