@@ -1,13 +1,16 @@
-We wish to implement Pluto notebooks so that
-they open with pasted code rather than a file.
-This is aimed to ease use on shared computers,
-for online computing, and limited devices
-like chrmebooks.  Code would be selected
-from e-mails, web pages, or opened files.
-A notebook would be restarted with this code.
-The work would be saved with copy and paste
-into an e-mail.  The code may be considered
-"stateless" as it will not be in a .jl file.
+We will make Pluto notebooks available by
+simply pasting code, without using files.
+No login or place to store files in needed.
+It just takes an e-mail account and a browser.
+An empty Pluto Notebook is brought up online. 
+A class can get up and running in minutes so
+it can be used for even an occasional lesson. 
+Notebooks are sent out and returned by e-mail.
+This will work in cost effective chromebooks.
+Code is selected from e-mails, web pages, or
+files opened in a text editor to be pasted.
+A notebook will be restarted with pasted code.
+
 We are using this model:
 
        "Pluto Community Use Model"
@@ -19,9 +22,9 @@ We are using this model:
                     V                         |
     open           open                       |
     Pluto          Pluto > > > >              |
-  (new file)     (paste)        \             |
-     V            V              V            |
-     do           do           use as         |
+  (new file)      (paste)       \             |
+     V              V            V            |
+     do            do          use as         |
     coding       coding      spread sheet     |
         \      /                   V          |
          \    /                    V          |
