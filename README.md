@@ -5,5 +5,5 @@ Our mission is giving tips and tricks to allow learners
 and casual users to feel a home in a Pluto Notebook.
 Work anywhere with an inexpensive device, internet,
 e-mail and an up-to-date Chrome or Firefox browser. 
-Julia is Fantastic, Pluto is Super and we want
-to make the experience even Better!
+Julia is Fantastic, Pluto is Super and pluto-e-mail
+make the experience even Better!
