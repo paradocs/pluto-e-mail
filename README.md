@@ -1,7 +1,9 @@
-# pluto-community
-pluto-community is making Pluto Notebooks 
-and Julia available to a wide community.
-Our goal is tips and tricks to make learners
-and casual users feel a home in a Pluto Notebook.
+# pluto-e-mail
+With pluto-e-mail, Pluto Notebooks, Markdown, and the
+Julia language are available to a wide community.
+Our goal is giving tips and tricks to allow learners
+and casual users to feel a home in a Pluto Notebook.
+Work anywhere with an inexpensive device, internet,
+e-mail and an uptodate Chrome or Firefox browser. 
 Julia is Fantastic, Pluto is Super and we want
 to make the experience even Better!
