@@ -1,5 +1,5 @@
 # pluto-e-mail
-With pluto-e-mail (PEM), Pluto Notebooks, Markdown, and
+With pluto-e-mail (PEM); Pluto Notebooks, Markdown, and
 the Julia language are available to a wide community.
 Our mission is giving tips and tricks to allow learners
 and casual users to feel a home in a Pluto Notebook.
