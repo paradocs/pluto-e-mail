@@ -20,13 +20,15 @@ myFriend@email.com
 """
 
 # ╔═╡ 63a1b84a-7324-11eb-0682-1fb702507e32
-md"""## $\mathbb Notebook ~~~ \mathbb Name:~~~\mathbb Demo~~~ \mathbb Lesson$
-Version-12/11/2020
+md"""# $~~~~~~~~~~~~~~~~~~\mathbb Demo~~~\mathbb Lesson$
+###### $Origin Name: Demo Lesson~~~~Version:~~~12/11/2020~~~~Sources:$
 
 https://github.com/paradocs/pluto-community/blob/main/Demo%20Lesson.jl
 
+[ParaDoc.Care] (https://www.paradocs.care/computing)  Copied from web-page.
 
-Sent to students by e-mail
+Copied from e-mail sent to student.
+
 
 """
 
@@ -44,7 +46,7 @@ md"""##### SAVE/SEND:
 """
 
 # ╔═╡ a30fd548-72f0-11eb-0180-f1902eece57a
-md"""##### NEW NOTEBOOK: (-- work in progress --)
+md"""##### OPEN NEW NOTEBOOK: (-- work in progress --)
 1) Start an empty web Pluto Notebook or use one already open.
 2) Open a web page or e-mail with the new notebook code.
 3) Slelet all code with Ctrl a (or mouse) and copy with Ctrl c.
@@ -57,15 +59,10 @@ md"""##### NEW NOTEBOOK: (-- work in progress --)
 md"""##### HELP/HINT$~~$ EMAIL SYSTEM
 If your teacher or assistents are available to scan e-mail for hint requests:
 
-you may write a help request in a cell as $~~~$ hint/yyyy/mm/dd $~~~$ and send.
+you may write a help request in a cell as $~~~$ help/yyyy/mm/dd $~~~$ and send the e-mail.
 
-
-Instead of the date, you may have a token $~~~$ hint/token $~~~$ to use.
 !!! start
 """
-
-# ╔═╡ 56a0cb00-7300-11eb-0355-894bc9fb72da
-
 
 # ╔═╡ c3b85594-72f5-11eb-3717-a1c384543220
 md"""
@@ -78,12 +75,14 @@ Click the Answer 1 cell and type in your answer.
 """
 
 # ╔═╡ 9b1f5900-72f5-11eb-24ac-2b31323430fd
-a = 5 + .5
+a = 3 + 5 + .5
 
 
-# ╔═╡ 8f48eaa0-72f6-11eb-16b9-1ff99b6c6a9e
-md"""###### Answer(1) =
-a = 5.5 
+# ╔═╡ aae018b4-74af-11eb-2bd7-f58e6e737e0b
+md"""
+Answer(1)
+a = 8.5
+
 """
 
 # ╔═╡ Cell order:
@@ -91,8 +90,8 @@ a = 5.5
 # ╟─61919858-72df-11eb-1745-67ab5e72244b
 # ╟─63a1b84a-7324-11eb-0682-1fb702507e32
 # ╟─7fe2d7b6-72e1-11eb-1a1a-afdd77020baa
-# ╠═a30fd548-72f0-11eb-0180-f1902eece57a
-# ╠═7dd2db00-7300-11eb-20a9-ef06117f61e2
-# ╠═56a0cb00-7300-11eb-0355-894bc9fb72da
+# ╟─a30fd548-72f0-11eb-0180-f1902eece57a
+# ╟─7dd2db00-7300-11eb-20a9-ef06117f61e2
 # ╠═c3b85594-72f5-11eb-3717-a1c384543220
 # ╠═9b1f5900-72f5-11eb-24ac-2b31323430fd
+# ╠═aae018b4-74af-11eb-2bd7-f58e6e737e0b
