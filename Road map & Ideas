@@ -1,19 +1,19 @@
 We will make Pluto notebooks more available
-by simply pasting code, without using files.
+by simple code pasting, without using files.
 No login or place to store files is needed.
 It only takes an e-mail account and a browser.
-An empty Pluto Notebook is brought up online. 
 A class can get going in minutes so notebooks
-can even be used for an occasional lesson. 
-Notebooks are shared, saved, and oped by e-mail.
+can even be used for an occasional lesson.
+An empty Pluto Notebook is brought up online. 
+Start, share, and save Notebooks by e-mail.
 This works well in cost effective chromebooks.
 Code, to be pasted, is selected from e-mails,
 web pages, or files opened in a text editors.
-A notebook will be restarted with pasted code.
+A notebook is restarted with just pasted code.
 
 Here is our flow model:
 
-       "Pluto Community Use Model"
+        "Pluto-E-Mail Use Model"
 
  select&copy   select&copy   select&copy
   Web-Page      e-mail        local file       
