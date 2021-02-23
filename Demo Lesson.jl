@@ -1,14 +1,14 @@
 ### A Pluto.jl notebook ###
-# v0.12.20
+# v0.12.21
 
 using Markdown
 using InteractiveUtils
 
 # ╔═╡ e4d3550a-72dd-11eb-06bc-fb27a9d9cd72
-md"""##### SUBJECT:ClassId;YourId;NotebookID;MM/DD/YYYY
-ClassExampleMissSmith123;
+md"""##### SUBJECT: YourId;ClassId;NotebookID;Notebook-Version MM/DD/YYYY
 MyIdDavid123;
-NotbookIdChemistryGrade6;
+Class-MissSmith123;
+Notbook#2-MathGrade6;
 02/15/2021
 """
 
@@ -20,12 +20,15 @@ myFriend@email.com
 """
 
 # ╔═╡ 63a1b84a-7324-11eb-0682-1fb702507e32
-md"""# $~~~~~~~~~~~~~~~~~~\mathbb Demo~~~\mathbb Lesson$
-###### $Origin Name: Demo Lesson~~~~Version:~~~12/11/2020~~~~Sources:$
+md"""# $~~~~~~~~~~~\mathbb Demo~~~\mathbb Lesson~~~\mathbb Expanded$
+##### NOTEBOOK: Based On; Version; Sources:
+
+Demo Lesson;
+version 02/15/2021;
 
 https://github.com/paradocs/pluto-community/blob/main/Demo%20Lesson.jl
 
-[ParaDoc.Care] (https://www.paradocs.care/computing)  Copied from web-page.
+[ParaDoc.Care] (https://www.paradocs.care/computing)  Copied from this web-page.
 
 Copied from e-mail sent to student.
 
@@ -59,7 +62,7 @@ md"""##### OPEN NEW NOTEBOOK: (-- work in progress --)
 md"""##### HELP/HINT$~~$ EMAIL SYSTEM
 If your teacher or assistents are available to scan e-mail for hint requests:
 
-you may write a help request in a cell as $~~~$ help/yyyy/mm/dd $~~~$ and send the e-mail.
+you may write a help request in a cell as $~~~$ help/yyyy/mm/dd $~~~$ and send the e-mail to your teacher.
 
 !!! start
 """
