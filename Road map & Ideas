@@ -1,18 +1,3 @@
-We will make Pluto notebooks more available
-by simple code pasting, without using files.
-No login or place to store files is needed.
-It only takes an e-mail account and a browser.
-A class can get going in minutes so notebooks
-can even be used for an occasional lesson.
-An empty Pluto Notebook is brought up online. 
-Start, share, and save Notebooks by e-mail.
-This works well in cost effective chromebooks.
-Code, to be pasted, is selected from e-mails,
-web pages, or files opened in a text editors.
-A notebook is restarted with just pasted code.
-
-Here is our flow model:
-
         "Pluto-E-Mail Use Model"
 
  select&copy   select&copy   select&copy
@@ -21,8 +6,8 @@ Here is our flow model:
           \_________V__________/___<____<____<|
                     V                         |
     open           open                       |
-    Pluto          Pluto > > > >              |
-  (new file)      (paste)       \             |
+    Pluto          Pluto                      |
+  (new file)      (paste)> > > >\             |
      V              V            V            |
      do            do          use as         |
     coding       coding      spread sheet     |
@@ -37,3 +22,16 @@ Here is our flow model:
     self or  local or                         | 
     group     GitHub                          |
        V________V__________________>____>____>|             
+
+We will make Pluto notebooks more available
+by simple code pasting, without using files.
+No login or place to store files is needed.
+It only takes an e-mail account and a browser.
+A class can get going in minutes so notebooks
+can even be used for an occasional lesson.
+An empty Pluto Notebook is brought up online. 
+Start, share, and save Notebooks by e-mail.
+This works well in cost effective chromebooks.
+Code, to be pasted, is selected from e-mails,
+web pages, or files opened in a text editors.
+A notebook is restarted with just pasted code.
