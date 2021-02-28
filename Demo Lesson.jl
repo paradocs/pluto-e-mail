@@ -90,16 +90,17 @@ a = 8.5
 
 # ╔═╡ ff44b926-78d5-11eb-3ea6-e16e11b73242
 md"""
-#### Below is white board. $~~~$ A Julia-Cheat-Sheet has been loaded.
+#### Below is white board. $~~~$ Use this for Hints, Help, or Teaching
+#### The (Nest)(BacK) button will navagate to preset areas.
 #### Move the text with the arrow keys or drag with the mouse.
 #### The mouse wheel will zoom. $~~~$ Open (top right) to make notes. 
-#### You may write on the board but it will  not be saved.
+#### You may write on a board but it will  not be saved.
 #### Run the cell to start over.
 """
 
 # ╔═╡ 5844acaa-78d3-11eb-1582-717d7015401c
 html"""
-<div style="width:600px;height:300px;border: 1px solid black;"><div style="position:relative;z-index:10;height:40px;padding-left:4px;width:150px;"><a style="text-decoration:none;color:#CCC;font-size:20px;font-family:Dosis;" href="https://ziteboard.com" target="_blank">Zoom & Move</a></div><iframe seamless="seamless" style="position:relative;width: 100%; height: 100%;top:-40px;" src="https://view.ziteboard.com/shared/20441541441611" frameborder="0" allowfullscreen></iframe></div>
+<div style="width:650px;height:300px;border: 1px solid black;"><div style="position:relative;z-index:10;height:40px;padding-left:4px;width:150px;"><a style="text-decoration:none;color:#CCC;font-size:20px;font-family:Dosis;" href="https://ziteboard.com" target="_blank">Zoom & Move</a></div><iframe seamless="seamless" style="position:relative;width: 100%; height: 100%;top:-40px;" src="https://view.ziteboard.com/shared/43796450541613" frameborder="0" allowfullscreen></iframe></div>
 """
 
 # ╔═╡ Cell order:
