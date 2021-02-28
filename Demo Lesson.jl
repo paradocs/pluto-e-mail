@@ -1,7 +1,6 @@
 ### A Pluto.jl notebook ###
 # v0.12.20
 
-import Pkg
 using Markdown
 using InteractiveUtils
 
