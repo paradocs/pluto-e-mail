@@ -100,7 +100,7 @@ md"""
 
 # ╔═╡ 5844acaa-78d3-11eb-1582-717d7015401c
 html"""
-<div style="width:600px;height:300px;border: 1px solid black;"><div style="position:relative;z-index:10;height:40px;padding-left:4px;width:150px;"><a style="text-decoration:none;color:#CCC;font-size:20px;font-family:Dosis;" href="https://ziteboard.com" target="_blank">Zoom & Move</a></div><iframe seamless="seamless" style="position:relative;width: 100%; height: 100%;top:-40px;" src="https://view.ziteboard.com/shared/21714680541614" frameborder="0" allowfullscreen></iframe></div>
+<div style="width:670px;height:300px;border: 1px solid black;"><div style="position:relative;z-index:10;height:40px;padding-left:4px;width:150px;"><a style="text-decoration:none;color:#CCC;font-size:20px;font-family:Dosis;" href="https://ziteboard.com" target="_blank">Zoom & Move</a></div><iframe seamless="seamless" style="position:relative;width: 100%; height: 100%;top:-40px;" src="https://view.ziteboard.com/shared/11164880541615" frameborder="0" allowfullscreen></iframe></div>
 """
 
 # ╔═╡ Cell order:
