@@ -1,6 +1,7 @@
 ### A Pluto.jl notebook ###
 # v0.12.20
 
+import Pkg
 using Markdown
 using InteractiveUtils
 
@@ -91,10 +92,10 @@ a = 8.5
 # ╔═╡ ff44b926-78d5-11eb-3ea6-e16e11b73242
 md"""
 #### Below is white board. $~~~$ Use this for Hints, Help, or Teaching
-#### The (Next)(Back) button will navagate to preset areas.
+#### The (Back)(Next) buttons will navagate to preset areas.
 #### Move the text with the arrow keys or drag with the mouse.
 #### The mouse wheel will zoom. $~~~$ Open (top right) to make notes. 
-#### You may write on a board but it will  not be saved.
+#### You may write on a board here but it will not be saved.
 #### Run the cell to start over.
 """
 
