@@ -13,7 +13,7 @@ Notbook#2-MathGrade6;
 """
 
 # ╔═╡ 61919858-72df-11eb-1745-67ab5e72244b
-md"""##### EMAIL:Teacher@email.com;mySelf@email.com;myFriend@email.com
+md"""##### EMAIL:myTeacher@email.com;mySelf@email.com;myFriend@email.com
 mySelf@email.com;
 myTeacher@email.com;
 myFriend@email.com
