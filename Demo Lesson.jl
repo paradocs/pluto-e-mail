@@ -94,7 +94,7 @@ md"""
 ##### (Back)(Next) navagate to preset areas. Hit twice the first time. 
 ##### Move with the arrow keys or left-click and drag with the mouse.
 ##### The mouse wheel will zoom. $~~~$ Open (top right) to make notes. 
-3#### You may write on this board, but your entries will not be saved.
+##### You may write on this board, but your entries will not be saved.
 ##### Run the cell to start over.
 """
 
