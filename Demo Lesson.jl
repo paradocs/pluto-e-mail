@@ -5,7 +5,7 @@ using Markdown
 using InteractiveUtils
 
 # ╔═╡ e4d3550a-72dd-11eb-06bc-fb27a9d9cd72
-md"""##### SUBJECT: YourId;ClassId;NotebookID;Notebook-Version MM/DD/YYYY
+md"""##### SUBJECT:$~~$ YourId;ClassId;NotebookID;Notebook-Version mm/dd/yyyy
 MyIdDavid1234;
 Class-MissSmith123;
 Notbook#2-MathGrade6;
@@ -13,7 +13,7 @@ Notbook#2-MathGrade6;
 """
 
 # ╔═╡ 61919858-72df-11eb-1745-67ab5e72244b
-md"""##### EMAIL:myTeacher@email.com;mySelf@email.com;myFriend@email.com
+md"""##### EMAIL:$~~$Self@email.com;Teacher@email.com;Friend@email.com
 mySelf@email.com;
 myTeacher@email.com;
 myFriend@email.com
@@ -21,18 +21,16 @@ myFriend@email.com
 
 # ╔═╡ 63a1b84a-7324-11eb-0682-1fb702507e32
 md"""# $~~~~~~~~~~~\mathbb Demo~~~\mathbb Lesson~~~\mathbb Expanded$
-##### NOTEBOOK: Based On; Version; Sources:
-
+##### Based On; Version; ServerToken; Sources(put a blank line before each)
 Demo Lesson;
 version 02/15/2021;
+Token12345
 
 https://github.com/paradocs/pluto-community/blob/main/Demo%20Lesson.jl
 
 [ParaDoc.Care] (https://www.paradocs.care/computing)  Copied from this web-page.
 
 Copied from e-mail sent to student.
-
-
 """
 
 # ╔═╡ 7fe2d7b6-72e1-11eb-1a1a-afdd77020baa
@@ -90,12 +88,12 @@ a = 8.5
 
 # ╔═╡ ff44b926-78d5-11eb-3ea6-e16e11b73242
 md"""
-##### Use this zoom-able white board for Hints, Help, and Teaching
-##### (Back)(Next) navagate to preset areas. Hit twice the first time. 
+##### Use this zoom enabled white board for Hints, Help, and Teaching.
+##### (Back)(Next) navagate to preset areas.$~~$ Hit it twice the first time. 
 ##### Move with the arrow keys or left-click and drag with the mouse.
 ##### The mouse wheel will zoom. $~~~$ Open (top right) to make notes. 
 ##### You may write on this board, but your entries will not be saved.
-##### Run the cell to start over.
+##### Run this cell to start over.
 """
 
 # ╔═╡ 5844acaa-78d3-11eb-1582-717d7015401c
