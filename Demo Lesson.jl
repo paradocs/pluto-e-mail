@@ -60,7 +60,7 @@ md"""##### SAVE/SEND:
 md"""##### OPEN NEW NOTEBOOK: (-- work in progress --)
 1) Start an empty web Pluto Notebook or use one already open.
 2) Open a web page or e-mail with the new notebook code.
-3) Slelet all code with Ctrl a (or mouse) and copy with Ctrl c.
+3) Select only the code with Ctrl a or mouse; and copy with Ctrl c.
 4) Click at the start of the top address bar and delete all of it.
 5) With Ctrl v paste the new code.
 6) Click the botton to open the new notebook.
