@@ -4,6 +4,16 @@
 using Markdown
 using InteractiveUtils
 
+# ╔═╡ f6cec062-8180-11eb-3722-b70b0d2873ac
+begin
+	import Pkg
+	Pkg.activate(mktempdir())
+
+	Pkg.add("Plots")
+	using Plots
+end
+
+
 # ╔═╡ e4d3550a-72dd-11eb-06bc-fb27a9d9cd72
 md"""##### SUBJECT:$~~$ YourId;ClassId;NotebookID;Notebook-Version mm/dd/yyyy
 MyIdDavid1234;
@@ -32,6 +42,21 @@ https://github.com/paradocs/pluto-community/blob/main/Demo%20Lesson.jl
 
 Copied from e-mail sent to student.
 """
+
+# ╔═╡ 592e7fb2-8182-11eb-2066-376bc42c6d1e
+x = [0, 2, 3, 5]     #y = rand(4, 2)
+
+# ╔═╡ 98f1eb34-8187-11eb-05b7-c79cd8da3a7f
+y = [2  5;  1  5; 4  1 ; 5  3 ]    
+
+# ╔═╡ a81ca4de-8182-11eb-2a7a-03d27b8d1e46
+plot(x, y , title = "Two Lines", label = ["L 1" "L 2"], lw = 3)
+
+# ╔═╡ c6021c2c-818a-11eb-0a03-e529ec84eeba
+scatter(x,y)
+
+# ╔═╡ 71f358ae-818b-11eb-12e5-57c5287ff306
+histogram(x, y)
 
 # ╔═╡ 7fe2d7b6-72e1-11eb-1a1a-afdd77020baa
 md"""##### SAVE/SEND:
@@ -104,7 +129,13 @@ html"""
 # ╔═╡ Cell order:
 # ╠═e4d3550a-72dd-11eb-06bc-fb27a9d9cd72
 # ╠═61919858-72df-11eb-1745-67ab5e72244b
-# ╟─63a1b84a-7324-11eb-0682-1fb702507e32
+# ╠═63a1b84a-7324-11eb-0682-1fb702507e32
+# ╠═f6cec062-8180-11eb-3722-b70b0d2873ac
+# ╠═592e7fb2-8182-11eb-2066-376bc42c6d1e
+# ╠═98f1eb34-8187-11eb-05b7-c79cd8da3a7f
+# ╠═a81ca4de-8182-11eb-2a7a-03d27b8d1e46
+# ╠═c6021c2c-818a-11eb-0a03-e529ec84eeba
+# ╠═71f358ae-818b-11eb-12e5-57c5287ff306
 # ╟─7fe2d7b6-72e1-11eb-1a1a-afdd77020baa
 # ╟─a30fd548-72f0-11eb-0180-f1902eece57a
 # ╟─7dd2db00-7300-11eb-20a9-ef06117f61e2
