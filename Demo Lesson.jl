@@ -1,18 +1,8 @@
 ### A Pluto.jl notebook ###
-# v0.12.20
+# v0.12.21
 
 using Markdown
 using InteractiveUtils
-
-# ╔═╡ f6cec062-8180-11eb-3722-b70b0d2873ac
-begin
-	import Pkg
-	Pkg.activate(mktempdir())
-
-	Pkg.add("Plots")
-	using Plots
-end
-
 
 # ╔═╡ e4d3550a-72dd-11eb-06bc-fb27a9d9cd72
 md"""##### SUBJECT:$~~$ YourId;ClassId;NotebookID;Notebook-Version mm/dd/yyyy
@@ -46,31 +36,38 @@ Copied from e-mail sent to student.
 # ╔═╡ 7fe2d7b6-72e1-11eb-1a1a-afdd77020baa
 md"""##### SAVE/SEND:
 1) Your work will be lost if not sent by e-mail.
-2) Send youself copies as you work. for backups.  
-3) Answers must be in md-cells for the teacher to see.
-4) Click top right △Export and then △Notebook file.
-5) Open the new tab, Ctrl A to select all, Ctrl c to copy.
-6) Open a new e-mail and Ctrl v paste in to the body.
-7) Select and past the list of subject lines.
-8) Select and past the first or all of the e-mail lines.
-9) Check thay you have copied correctly and SEND.
+2) Place your ID Name on line 2 of cell 1$~~$ End with a semicolon.             
+3) Send youself copies as you work. for backups.  
+4) Answers must be written in md-cells for your teacher to see.
+5) Click top right △Export and then △Notebook file.
+5) Open the new tab, Ctrl a$~~~$ to select all, Ctrl c$~~~$ to copy.
+7) Open a new e-mail and use Ctrl v$~~$ paste in to the body.
+8) Select and past the subject lines ending with semicolons.
+9) Select and past one or more of the e-mail lines.
+10) Check your ID and that you have copied correctly and SEND.
 """
 
 # ╔═╡ a30fd548-72f0-11eb-0180-f1902eece57a
 md"""##### OPEN NEW NOTEBOOK: (-- work in progress --)
-1) Start an empty web Pluto Notebook or use one already open.
-2) Open a web page or e-mail with the new notebook code.
-3) Select only the code with Ctrl a or mouse; and copy with Ctrl c.
-4) Click at the start of the top address bar and delete all of it.
-5) With Ctrl v paste the new code.
-6) Click the botton to open the new notebook.
+1) Start a web Pluto Notebook or use a Notebook that is already open.
+2) Open a web page, e-mail, or file in an editor with the new notebook code.
+3) Carefully select just the code with the mouse, holding the left button.
+4) For a code only page use Crtl a$~~$.  Holding shift may help with selecting.
+4) Be sure you have all of the code.  Then copy with Ctrl c.
+5) Click at the start of the top address bar and delete anything there.
+6) With Ctrl v paste the new code.
+7) Click the button to open the new notebook.
 """
 
 # ╔═╡ 7dd2db00-7300-11eb-20a9-ef06117f61e2
 md"""##### HELP/HINT$~~$ EMAIL SYSTEM
-If your teacher or assistents are available to scan e-mail for hint requests:
+###### If your teacher or assistents are available to scan e-mail for hint requests,
 
-you may write a help request in a cell as $~~~$ help/yyyy/mm/dd $~~~$ and send the e-mail to your teacher.
+###### you may write a request in a md-cell starting with helpyyyy/mm/dd $~~~$ and
+
+###### place an * in front of your ID.$~~$  E-mail it to your teacher or assistent.
+
+###### Remove the * for the final notebook you send.
 
 !!! start
 """
@@ -81,7 +78,7 @@ md"""
 
 Write an expresstion to add 3 plus 5 plus one-half,
 
-Click the Answer 1 cell and type in your answer.
+Click the Answer(1) cell and type in your answer.
 
 """
 
@@ -111,38 +108,31 @@ html"""
 <div style="width:680px;height:300px;border: 1px solid black;"><div style="position:relative;z-index:10;height:40px;padding-left:4px;width:150px;"><a style="text-decoration:none;color:#CCC;font-size:20px;font-family:Dosis;" href="https://ziteboard.com" target="_blank">Zoom & Move</a></div><iframe seamless="seamless" style="position:relative;width: 100%; height: 100%;top:-40px;" src="https://view.ziteboard.com/shared/07449027541615" frameborder="0" allowfullscreen></iframe></div>
 """
 
-# ╔═╡ 008d8264-8217-11eb-0ff7-e197e911adb9
-md"""
-### Here is some example plots:
-"""
-
 # ╔═╡ 592e7fb2-8182-11eb-2066-376bc42c6d1e
-x = [1, 2, 3, 4] 
+
 
 # ╔═╡ 98f1eb34-8187-11eb-05b7-c79cd8da3a7f
-y = [2  5;  1  5; 4  1 ; 5  3 ]    
+
 
 # ╔═╡ a81ca4de-8182-11eb-2a7a-03d27b8d1e46
-plot(x, y , title = "Two Lines", label = ["L 1" "L 2"], lw = 3)
+
 
 # ╔═╡ c6021c2c-818a-11eb-0a03-e529ec84eeba
-scatter(x,y)
+
 
 # ╔═╡ Cell order:
 # ╠═e4d3550a-72dd-11eb-06bc-fb27a9d9cd72
 # ╠═61919858-72df-11eb-1745-67ab5e72244b
 # ╟─63a1b84a-7324-11eb-0682-1fb702507e32
-# ╠═f6cec062-8180-11eb-3722-b70b0d2873ac
 # ╟─7fe2d7b6-72e1-11eb-1a1a-afdd77020baa
 # ╟─a30fd548-72f0-11eb-0180-f1902eece57a
-# ╟─7dd2db00-7300-11eb-20a9-ef06117f61e2
+# ╠═7dd2db00-7300-11eb-20a9-ef06117f61e2
 # ╟─c3b85594-72f5-11eb-3717-a1c384543220
 # ╠═9b1f5900-72f5-11eb-24ac-2b31323430fd
 # ╠═aae018b4-74af-11eb-2bd7-f58e6e737e0b
 # ╟─ff44b926-78d5-11eb-3ea6-e16e11b73242
 # ╟─5844acaa-78d3-11eb-1582-717d7015401c
-# ╠═008d8264-8217-11eb-0ff7-e197e911adb9
-# ╠═592e7fb2-8182-11eb-2066-376bc42c6d1e
-# ╠═98f1eb34-8187-11eb-05b7-c79cd8da3a7f
-# ╠═a81ca4de-8182-11eb-2a7a-03d27b8d1e46
-# ╠═c6021c2c-818a-11eb-0a03-e529ec84eeba
+# ╟─592e7fb2-8182-11eb-2066-376bc42c6d1e
+# ╟─98f1eb34-8187-11eb-05b7-c79cd8da3a7f
+# ╟─a81ca4de-8182-11eb-2a7a-03d27b8d1e46
+# ╟─c6021c2c-818a-11eb-0a03-e529ec84eeba
