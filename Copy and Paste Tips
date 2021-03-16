@@ -1,9 +1,9 @@
 Yes, we need Pasting Notebooks.  It is excellent to:
-- Distinguish Pluto as the easiest to use notebook
-- Let un-trained teachers/users run Pluto in a moment
-- Fit in with Pluto's outstanding readable file   
-- E-mail makes sharing and searching notebooks fast
-- Allow a binder session to start several notebooks
+-  Distinguish Pluto as the easiest to use notebook
+-  Let un-trained teachers/users run Pluto in a moment
+-  Fit in with Pluto's outstanding readable file   
+-  E-mail makes sharing and searching notebooks fast
+-  Allow a binder session to start several notebooks
 
 Fixing or warning of a faulty copy is good.
 Check both start ### A Pluto.jl  and end   # ╠═
