@@ -1,12 +1,9 @@
-Fixing or warning of a faulty copy is needed. 
-Check both start ### A Pluto.jl  and end   # ╠═
- 
 To select a complete notebook at the end of
 a g-mail, a web-page, or a text file just 
 place the cursor on the line above the 2nd #,
 left click and move diagonally to the margin. 
 This method requires a blank line above.
 If we start after the first #, we only miss
-one #.  Just correct this pragmatically.
+one #.  We hope to correct this pragmatically.
 
 CTRL a works if only the code is on the page.
