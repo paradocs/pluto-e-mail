@@ -1,11 +1,4 @@
-Yes, we need Pasting Notebooks.  It is excellent to:
-* Distinguish Pluto as the easiest to use notebook
-* Let un-trained teachers/users run Pluto in a moment
-* Fit in with Pluto's outstanding readable file   
-* E-mail for fast sharing and searching of notebooks
-* Allow a binder session to start several notebooks
-
-Fixing or warning of a faulty copy is good.
+Fixing or warning of a faulty copy is needed. 
 Check both start ### A Pluto.jl  and end   # ╠═
  
 To select a complete notebook at the end of
@@ -15,3 +8,5 @@ left click and move diagonally to the margin.
 This method requires a blank line above.
 If we start after the first #, we only miss
 one #.  Just correct this pragmatically.
+
+CTRL a works if only the code is on the page.
