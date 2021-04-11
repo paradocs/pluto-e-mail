@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.21
+# v0.14.1
 
 using Markdown
 using InteractiveUtils
@@ -95,12 +95,15 @@ a = 8.5
 
 # ╔═╡ ff44b926-78d5-11eb-3ea6-e16e11b73242
 md"""
-##### Use this zoom enabled white board for Hints, Help, and Teaching.
-##### (Back)(Next) navagate to preset areas.$~~$ Hit it twice the first time. 
-##### Move with the arrow keys or left-click and drag with the mouse.
-##### The mouse wheel will zoom. $~~~$ Open (top right) to make notes. 
-##### You may write on this board, but your entries will not be saved.
-##### Run this cell to start over.
+!!! study
+##### ``~~~~~~~``Use a zoom enabled white board for Hints, Help, and Teaching.
+##### ``~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~``To move and zoom use:
+##### ``~~~~~~~~~~~``arrow keys -or- left click and drag -or- the mousewheel
+##### ``~~~~~~~``You may open to write and edit, but nothing will be saved.
+##### ``~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~``Run the cell to start over.
+##### ``~~~~~~~~~~~~~~``Click (n)ext or the "n" key twice the first time.
+##### ``~~~~~~~~~~~``The "HOME" key goes home with the stardard zoom.
+''
 """
 
 # ╔═╡ 5844acaa-78d3-11eb-1582-717d7015401c
@@ -130,7 +133,7 @@ html"""
 # ╟─c3b85594-72f5-11eb-3717-a1c384543220
 # ╠═9b1f5900-72f5-11eb-24ac-2b31323430fd
 # ╠═aae018b4-74af-11eb-2bd7-f58e6e737e0b
-# ╟─ff44b926-78d5-11eb-3ea6-e16e11b73242
+# ╠═ff44b926-78d5-11eb-3ea6-e16e11b73242
 # ╟─5844acaa-78d3-11eb-1582-717d7015401c
 # ╟─592e7fb2-8182-11eb-2066-376bc42c6d1e
 # ╟─98f1eb34-8187-11eb-05b7-c79cd8da3a7f
