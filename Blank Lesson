@@ -1,0 +1,30 @@
+md"""##### ADD EMAIL Addresses Below:
+* End each line with a ;
+* Leave \"\"\" in the last line.
+* To email this lesson, copy them into the TO box.
+* Teacher@email.com;
+* Self@email.com;
+* Other@email.com;
+
+
+
+"""
+
+md"""##### ADD Notebook Subject Below:
+* End each line with a ;
+* Leave \"\"\" in the last line.
+* To email this lesson, copy them into the SUBJECT box.
+* MyId;
+* MyTeacher;
+* Notbook Name MathGrade6;
+* Date 02/15/2021;
+
+
+
+
+"""
+
+md"""# $~~~~~~~~~~~\mathbb Demo~~~\mathbb Lesson~~~\mathbb Expanded$
+##### Based On; Version; ServerToken; Sources(put a blank line before each)
+Demo Lesson;
+"""
